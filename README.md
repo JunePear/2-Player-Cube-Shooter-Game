@@ -25,4 +25,6 @@ If the example game runs succesfully, then dowload the files and put them into a
 Run the .py file and enjoy the game!
 
 Here is some example gameplay to showcase functionality (I am 1 person controling 2 players so bare with me): 
-https://github.com/user-attachments/assets/cde5ab37-eacd-4964-b5bb-06c5c3706437
+
+https://github.com/user-attachments/assets/e7741577-1506-494a-90c1-aa4711336fbb
+
