@@ -23,3 +23,6 @@ Next, If it installs successfully, you can verify it by running: python -m pygam
 
 If the example game runs succesfully, then dowload the files and put them into a folder.
 Run the .py file and enjoy the game!
+
+Here is some example gameplay to showcase functionality (I am 1 person controling 2 players so bare with me): 
+https://github.com/user-attachments/assets/cde5ab37-eacd-4964-b5bb-06c5c3706437
