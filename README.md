@@ -16,10 +16,13 @@ Download and Run the Installer
 Go to the official website: python.org/downloads
 Click the yellow button to download the latest version for Windows.
 Open the downloaded .exe installer file
-/If this doesnt work/:
 
+
+/If this doesnt work/:
 Install Pygame Community EditionRun this command in your Command Prompt to install the compatible version: python -m pip install pygame-ce
 Next, If it installs successfully, you can verify it by running: python -m pygame.examples.aliens
+
+
 
 If the example game runs succesfully, then dowload the files and put them into a folder.
 Run the .py file and enjoy the game!
